@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">load image in bottom navigation</string>
+    <string name="home">Home</string>
+    <string name="live">Live</string>
+    <string name="category">Category</string>
+    <string name="profile">profile</string>
+</resources>
